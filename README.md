@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on satellite imagery, 3D processing and AI/ML and also learning about computer vision, knowledge graphs, CI/CD pipelines, LLMs and trying to get good at DSA.
+I'm currently diving deep into GenAI, computer vision, deep learning, data engineering, and LLMs, while also grinding through DSA to sharpen my problem-solving skills. It’s been an exciting mix of learning and hands-on projects, keeping me constantly curious and improving.
 
 
 # 💻 Tech Stack:
